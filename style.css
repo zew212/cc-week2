@@ -1,0 +1,36 @@
+html {
+    background-color: rgb(146, 137, 7) ;
+}
+
+p {
+    color: #ffffff;
+    text-align: center;
+}
+
+h1 {
+    color: #e9d02d;
+    text-align: center;
+}
+
+h2 {
+    color: #000000;
+    text-align: center;
+}
+
+h3 {
+    color: #6ee4f1;
+    text-align: center;
+}
+
+#Lace {
+    position: absolute;
+    width: 200px;
+    top: 0px;
+    width: 100vw
+}
+
+a {
+    color: #316a83;
+    text-align: center;
+
+}

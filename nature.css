@@ -1,0 +1,57 @@
+html {
+    background-color: rgb(0, 0, 0) ;
+}
+
+
+
+p {
+    color: #ffffff;
+    text-align: center;
+}
+
+h1 {
+    color: #e9d02d;
+    text-align: center;
+    
+
+}
+
+h2 {
+    color: #ffffff;
+    text-align: center;
+}
+
+h3 {
+    color: #6ee4f1;
+    text-align: center;
+}
+
+a {
+    color: #51b0d8;
+    text-align: center;
+}
+
+
+#treevideo {
+    position: absolute;
+    width: 280px;
+    top: 150px;
+    left: 350px;
+
+}
+
+#duckvideo {
+    position: absolute;
+    width: 280px;
+    top: 150px;
+    left: 10px;
+
+}
+
+#pond2video {
+    position: absolute;
+    width: 280px;
+    top: 350px;
+    left: 350px;
+
+}
